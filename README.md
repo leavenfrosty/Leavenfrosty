@@ -113,9 +113,11 @@ Leavenfrosty.createDay();
 </div>
 
 </td></tr></table>  
-### :joy: Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### :joy: Random Dev Meme
+<div>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 ---
-[![](https://visitcount.itsvg.in/api?id=leavenfrosty&icon=0&color=11)](https://visitcount.itsvg.in)
+
 
