@@ -40,10 +40,9 @@ Leavenfrosty.createDay();
 
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=b8flkn9wrt79ld5hclm4y2x8k&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leavenfrosty&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 
 
