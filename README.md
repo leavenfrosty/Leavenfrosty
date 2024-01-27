@@ -39,8 +39,7 @@ Leavenfrosty.createDay();
 ```
 
 <div>
-<img src="https://linkstorage.linkfire.com/medialinks/images/83fcd6fd-d380-4038-937e-57882ce7f92b/artwork-640x640" align="left" height="500" width="" />  
-  
+<img src="https://linkstorage.linkfire.com/medialinks/images/83fcd6fd-d380-4038-937e-57882ce7f92b/artwork-640x640" align="center" height="500" width=""/>  
 </div>
 
 <div class="socials" align="center">
