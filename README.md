@@ -37,10 +37,8 @@ class CreateMan extends Leavenfrosty {
 let Leavenfrosty = new CreateMan()
 Leavenfrosty.createDay();
 ```
-<div align="center" > 
-<img src="https://cdn.discordapp.com/attachments/1188626259400470548/1188626638368411780/a_9e01cfa816cbf541f4ac82cd3b8472a7.gif?ex=65c01fd2&is=65adaad2&hm=afbb16f6dd321830284e29c5665fc9d6e0593b6926759d7630629ced6569ba7f&" > </div>
-
-</div>
+<img src="https://cdn.discordapp.com/attachments/1188626259400470548/1188626638368411780/a_9e01cfa816cbf541f4ac82cd3b8472a7.gif?ex=65c01fd2&is=65adaad2&hm=afbb16f6dd321830284e29c5665fc9d6e0593b6926759d7630629ced6569ba7f&" align="left" height="500" width="" />  
+  
 
 
 <div class="socials" align="center">
