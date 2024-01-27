@@ -39,6 +39,20 @@ Leavenfrosty.createDay();
 ```
 
 
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=b8flkn9wrt79ld5hclm4y2x8k&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
+
+
+
+
+
+
+
+
+
+
+
+
 ### Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -83,11 +97,4 @@ Leavenfrosty.createDay();
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
 
